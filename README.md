@@ -1,4 +1,4 @@
-# CNN‑Explain: Heat‑Map‑Based Model Interpretation
+# Heat‑Map‑Based Model Interpretation
 
 ![Grad‑CAM Example](img/sample_gradcam.png)
 
